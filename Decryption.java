@@ -7,6 +7,7 @@ import java.io.IOException;
 /*
  * This class will take an image with a hidden message and print it on 
  * standard output.
+ *Test to see 
 */
 public class Decryption
 {
